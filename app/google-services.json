@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256395245510",
+    "project_id": "the-news-app-c5082",
+    "storage_bucket": "the-news-app-c5082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256395245510:android:1a2506e385775fbecfa4c7",
+        "android_client_info": {
+          "package_name": "com.prathmeshadsod.thehindustanprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256395245510-1n55lcua0t76d6v55083ssauahtal6l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQidLCZDgLB-j_-k_tiZjBEw9GpUuvjVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256395245510-1n55lcua0t76d6v55083ssauahtal6l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
